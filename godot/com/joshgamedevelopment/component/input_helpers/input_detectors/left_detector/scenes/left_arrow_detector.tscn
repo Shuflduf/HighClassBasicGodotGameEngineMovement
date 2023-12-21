@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://bl263nt686qx1"]
+
+[ext_resource type="Script" path="res://godot/com/joshgamedevelopment/component/input_helpers/input_detectors/left_detector/scripts/left_arrow_detector.gd" id="1_nmhws"]
+
+[node name="TheComponentThatReturnsTrueIfTheLeftArrowIsPressed" type="Node"]
+script = ExtResource("1_nmhws")

@@ -1,0 +1,10 @@
+[gd_scene load_steps=3 format=3 uid="uid://vkojpjyfae6l"]
+
+[ext_resource type="Script" path="res://godot/com/joshgamedevelopment/scenes/main/world/scripts/world/logical/world.gd" id="1_jfeph"]
+[ext_resource type="Script" path="res://godot/com/joshgamedevelopment/component/input_helpers/input_detectors/left_detector/scripts/left_arrow_detector.gd" id="2_h1hpy"]
+
+[node name="World" type="Node2D"]
+script = ExtResource("1_jfeph")
+
+[node name="TheComponentThatReturnsTrueIfTheLeftArrowIsPressed" type="Node" parent="."]
+script = ExtResource("2_h1hpy")
