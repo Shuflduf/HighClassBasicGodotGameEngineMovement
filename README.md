@@ -384,4 +384,6 @@ JoshLand and you irrevocably consent to the exclusive jurisdiction and venue of 
 
 16. Questions or Concerns
 
-Please send all questions, comments and feedback to us at josh@josh.joshW.
+Please send all questions, comments and feedback to us at josh@josh.josh.
+
+# github please don't eat me josh made this im so sorry
