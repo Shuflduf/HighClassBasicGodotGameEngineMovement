@@ -232,6 +232,7 @@
 - Object oriented
 - Object oriented
 - Object oriented
+- Object oriented
 - High quality sprites
 - Object oriented
 - Object oriented
