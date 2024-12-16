@@ -12,6 +12,6 @@ config_version=5
 
 config/name="Component based joshening"
 run/main_scene="res://godot/com/joshgamedevelopment/scenes/main/world/world.tscn"
-config/features=PackedStringArray("4.2", "Forward Plus")
+config/features=PackedStringArray("4.3", "Forward Plus")
 boot_splash/image="res://icon.svg"
 config/icon="res://icon.svg"
